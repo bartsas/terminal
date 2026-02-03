@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Name=MyTerminal
+Comment=My own terminal
+Exec=/usr/local/bin/terminal.py
+Icon=terminal
